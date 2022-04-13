@@ -5,7 +5,6 @@ Bienvenido a mi perfil de GitHub, aquí encontrarás algunos de mis proyectos en
 <li>💙 Soy amante de la tecnología y los retos los cuales me dejen alguna enseñanza.<br><br><li>
 👨🏽‍💻 Me interesa participar en proyectos de desarrollo de distintas índoles, colaborando y cumpliendo metas y objetivos en común, creciendo mutuamente.<br><br>
 
-<li>📬 Mi correo de contacto es rodrubricardo@gmail.com<br><br>
 </ul>
 Gracias por leer :)<br><br>
 
